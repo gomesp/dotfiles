@@ -1,4 +1,1 @@
-function b { 
-  sudo -u brew brew $@;
-}
-
+# alias collection
